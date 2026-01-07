@@ -1,1 +1,1 @@
-# 64 Shades Organization Front Page repo
+# 64 Shades Organization Front Page repository
