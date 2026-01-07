@@ -4,6 +4,9 @@ on:
   watch:
     types: [started]
 
+permissions:
+  contents: read
+
 jobs:
   invite-user:
     name: 🙋‍♂️ Invite New GitHub User
