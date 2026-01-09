@@ -8,7 +8,7 @@
     Join us on <a href="https://lichess.org/team/64-shades">lichess.org/team/64-shades</a> to play, grow, and contribute together.
   </p>
   <h2>Next Event !!</h2>
-  <p>Monday 5th January at the Breakfast Creek Hotel 5pm until 6:30pm</p>
+  <p>Monday 12th January at the Breakfast Creek Hotel 5pm until 6:30pm</p>
 </div>
 
 ---
