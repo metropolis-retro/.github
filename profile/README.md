@@ -4,7 +4,7 @@
     <strong>Metropolis Retro</strong> is a team of cutting-edge chess and games players who also love open-source on GitHub. <br>
     We’re here to celebrate global games, with a vibrant, tech-loving community.
   </p>
-  <p>We ran 11 events at the <a href="https://www.breakfastcreekhotel.com/">Breakfast Creek Hotel</a> from late 2005 to early 2026 mainly on Monday nights.</p>
+  <p>We ran 11 events at the <a href="https://www.breakfastcreekhotel.com/">Breakfast Creek Hotel</a> from late 2025 to early 2026 mainly on Monday nights.</p>
 </div>
 
 ---
