@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Welcome to the Official <code>64 Shades</code> World Chess Team and Games Club 🀄 🃏 ♟️ 🎲 🕹️</h1>
+  <h1>Welcome to the Official <code>Metropolis Retro</code> World Chess Team and Games Club 🀄 🃏 ♟️ 🎲 🕹️</h1>
   <p>
-    <strong>64 Shades</strong> is a team of cutting-edge chess and games players who also love open-source on GitHub. <br>
+    <strong>Metropolis Retro</strong> is a team of cutting-edge chess and games players who also love open-source on GitHub. <br>
     We’re here to celebrate global games, with a vibrant, tech-loving community.
   </p>
 </div>
