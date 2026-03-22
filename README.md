@@ -1,1 +1,1 @@
-# 64 Shades Organization Front Page repository
+# Metropolis Retro Organization Front Page repository
