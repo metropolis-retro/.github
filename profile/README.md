@@ -5,6 +5,9 @@
     We’re here to celebrate global games, with a vibrant, tech-loving community.
   </p>
   <p>We ran 11 events at the <a href="https://www.breakfastcreekhotel.com/">Breakfast Creek Hotel</a> from late 2025 to early 2026 mainly on Monday nights.</p>
+  <p>
+    Retro social club meetups have restarted !! The last amazing event was held on Monday the 30th of March from 5pm until 7pm at the world famous Breakfast Creek Hotel 😎 🍻 
+  </p>
 </div>
 
 ---
@@ -19,7 +22,7 @@
       <td align="center">
         <a href="https://github.com/jbampton">
           <img src="https://avatars.githubusercontent.com/u/418747?s=200&v=4" alt="John Bampton"><br>
-          <strong>Founder & Strategist 🧠</strong><br>
+          <strong>Founder & Strategist 🏀🧠</strong><br>
           John Bampton
         </a>
       </td>
@@ -29,6 +32,16 @@
           <strong>Tech Wizard ♟️💻</strong><br>
           Max Base
         </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/sponsors/jbampton">
+          <img src="https://img.shields.io/github/sponsors/jbampton?style=for-the-badge&label=Sponsor%20John%20Bampton&labelColor=orange&color=pink" alt="Sponsor John Bampton"></a>
+      </td>
+      <td>
+        <a href="https://github.com/sponsors/BaseMax">
+          <img src="https://img.shields.io/github/sponsors/BaseMax?style=for-the-badge&label=Sponsor%20Max%20Base&labelColor=lightgreen&color=lightblue" alt="Sponsor Max Base"></a>  
       </td>
     </tr>
   </table>
