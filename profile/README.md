@@ -8,9 +8,12 @@
   <p>
     Retro social club meetups have restarted !! The last amazing event was held on Monday the 30th of March from 5pm until 7pm at the world famous Breakfast Creek Hotel 😎 🍻 
   </p>
+  <hr>
+  <p>Add a ⭐ to <a href="https://github.com/metropolis-retro/.github">this repo</a> and you will be auto-invited to join the Metropolis Retro GitHub Organization ⏩ 🏢
+  </p>
 </div>
 
----
+<hr>
 
 <div align="center">
   <h2>Management Team 👥</h2>
@@ -45,10 +48,53 @@
       </td>
     </tr>
   </table>
-  <hr>
-  <p>Add a ⭐ to <a href="https://github.com/metropolis-retro/.github">this repo</a> and you will be auto-invited to join the Metropolis Retro GitHub Organization ⏩ 🏢
-  </p>
-  <hr>
+</div>
+
+<hr>
+
+<div align="center">
+
+# 🏛️ PROJECT METROPOLIS: CORE OPERATIONS
+
+[![System Age](https://img.shields.io/badge/FOUNDED-2021-lightgreen?style=for-the-badge&labelColor=orange)](#)
+[![Network](https://img.shields.io/badge/ORIGIN-GITHUB-23373b?style=for-the-badge&labelColor=0d0d0d)](#)
+
+</div>
+
+<div align="center">
+
+[![Project Board](https://img.shields.io/badge/PROJECT_BOARD-VIEW_SUPERSTRUCTURE-pink?style=for-the-badge&logo=github&logoColor=fafafa&labelColor=lightblue)](https://github.com/orgs/metropolis-retro/projects/2/views/1)
+
+</div>
+<div align="center">
+
+<hr>
+
+### We are seeking **Master Builders** to reinforce the superstructure.
+
+> [!CAUTION]
+> **SEEKING: VISIONARIES • OPERATORS • ARCHITECTS**
+> <br />
+> *If you possess the speed of a machine and the taste of an artisan — your place is here.*
+
+<hr>
+
+| 🧱 INFRASTRUCTURE | ⚡ VELOCITY | 🏛️ AESTHETIC |
+| :--- | :--- | :--- |
+| Build for the Century | Move with Purpose | Design with Precision |
+
+<br />
+
+### 📡 [TRANSMIT YOUR CREDENTIALS](https://github.com/metropolis-retro)
+  
+<hr>
+
+`EST. 2021 // BRISBANE_STATION // THE_MACHINE_REQUIRES_TASTE`
+
+<hr>
+</div>
+
+<div align="center">
   <h3>Breakfast Creek Hotel third event beers in play</h3>
   <p>
     <a href="#">
