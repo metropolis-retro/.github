@@ -6,11 +6,8 @@
   </p>
   <p>We ran 11 events at the <a href="https://www.breakfastcreekhotel.com/">Breakfast Creek Hotel</a> from late 2025 to early 2026 mainly on Monday nights.</p>
   <p>
-    Retro social club meetups have restarted !! The last amazing event was held on Monday the 30th of March from 5pm until 7pm at the world famous Breakfast Creek Hotel 😎 🍻 
+    The 13th event was held on Monday the 6th of April from 5pm until 7pm at the world famous Breakfast Creek Hotel 😎 🍻 
   </p>
-  <h3>
-    Next Event at the Breakfast Creek Hotel on Monday the 6th April 5pm to 7pm.
-  </h3>
   <hr>
   <p>Add a ⭐ to <a href="https://github.com/metropolis-retro/.github">this repo</a> and you will be auto-invited to join the Metropolis Retro GitHub Organization ⏩ 🏢
   </p>
