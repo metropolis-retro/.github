@@ -7,8 +7,6 @@
     The 13th event was held on Monday the 6th of April from 5pm until 7pm at the world famous Breakfast Creek Hotel 😎 🍻
   </p>
   <h2>The next event is on Monday the 13th of April from 5pm until 6:30pm at the Breakfast Creek Hotel</h2>
-  <p>Add a ⭐ to <a href="https://github.com/metropolis-retro/.github">this repo</a> and you will be auto-invited to join the Metropolis Retro GitHub Organization ⏩ 🏢
-  </p>
 </div>
 
 <hr>
