@@ -1,21 +1,13 @@
 #!/usr/bin/env python3
 """
 Auto-invite GitHub user to organization team when they star the repo.
-
-Author: Max Base
-Sponsor: John Bampton
-Date: 2025-05-09
+Hardened for production CI environments.
 """
 
 import os
 import sys
 import json
 import requests
-
-def log_env_info():
-    print("🔍 Environment Info:")
-    print("CI Environment:", "GitHub Actions" if os.getenv('CI') else "Local")
-    print("Python Prefix:", sys.prefix)
 
 def load_event_data():
     event_path = os.getenv('GITHUB_EVENT_PATH')
@@ -26,41 +18,60 @@ def load_event_data():
         return json.load(file)
 
 def send_github_invite(username, team_id, token):
+    # Use the more modern /orgs/{org}/teams/{team_slug} if ID is problematic,
+    # but the provided ID-based URL works fine for legacy compatibility.
     url = f'https://api.github.com/teams/{team_id}/memberships/{username}'
     headers = {
         'Accept': 'application/vnd.github.v3+json',
-        'Authorization': f'token {token}'
+        'Authorization': f'Bearer {token}' # 'Bearer' is the preferred modern standard over 'token'
     }
 
-    print(f"📨 Sending invite to @{username}...")
-    response = requests.put(url, headers=headers)
-    
-    if response.status_code == 200:
-        print("✅ User already a member.")
-    elif response.status_code == 201:
-        print("🎉 Invite sent successfully.")
-    else:
-        print(f"⚠️ Failed to send invite. Status Code: {response.status_code}")
-        print(response.text)
+    try:
+        print(f"📨 Processing invite for @{username}...")
+        response = requests.put(url, headers=headers, timeout=10)
+        
+        if response.status_code == 200:
+            print("✅ User is already a member or invitation is active.")
+        elif response.status_code == 201:
+            print("🎉 Invite sent successfully.")
+        elif response.status_code == 404:
+            print("⚠️ Team ID or User not found. Check your COMMUNITY_TEAM_ID.")
+        elif response.status_code == 403:
+            print("❌ Permission denied. Your MY_GITHUB_KEY may lack 'admin:org' scope.")
+        else:
+            # We avoid printing response.text to prevent secret leakage in logs
+            print(f"⚠️ API returned status: {response.status_code}")
+            
+    except requests.exceptions.RequestException as e:
+        print(f"❌ Network error: {e}")
 
 def main():
-    print("👋 Hello, GitHub Actions!")
+    # Only log essential info to keep the log "clean"
+    if not os.getenv('GITHUB_ACTIONS'):
+        print("⚠️ Running outside of GitHub Actions.")
 
-    log_env_info()
+    # Validate inputs immediately
+    github_token = os.getenv('MY_GITHUB_KEY')
+    team_id = os.getenv('COMMUNITY_TEAM_ID')
 
-    try:
-        github_token = os.environ['MY_GITHUB_KEY']
-        team_id = os.environ['COMMUNITY_TEAM_ID']
-    except KeyError as e:
-        print(f"❌ Missing environment variable: {e}")
+    if not github_token or not team_id:
+        print("❌ Error: MY_GITHUB_KEY and COMMUNITY_TEAM_ID must be set.")
         sys.exit(1)
 
     try:
         event_data = load_event_data()
+        
+        # Verify this is actually a 'started' (star) action
+        action = event_data.get('action')
+        if action != 'started':
+            print(f"ℹ️ Ignoring action type: {action}")
+            return
+
         username = event_data['sender']['login']
         send_github_invite(username, team_id, github_token)
+        
     except Exception as e:
-        print(f"❌ Error occurred: {e}")
+        print(f"❌ Script failed: {str(e)}")
         sys.exit(1)
 
 if __name__ == '__main__':
