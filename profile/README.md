@@ -69,7 +69,7 @@
 
 <hr>
 
-### We are seeking **Master Builders** to reinforce the superstructure.
+### We are seeking **Master Builders** to reinforce the superstructure
 
 > [!CAUTION]
 > **SEEKING: VISIONARIES • OPERATORS • ARCHITECTS**
