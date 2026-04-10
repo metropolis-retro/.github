@@ -35,7 +35,8 @@ def send_github_invite(username, team_id, token):
         elif response.status_code == 201:
             print("🎉 Invite sent successfully.")
         elif response.status_code == 404:
-            print("⚠️ Team ID or User not found. Check your COMMUNITY_TEAM_ID.")
+            api_message = response.json().get('message', 'no details provided')
+            print(f"⚠️ Resource not found (404): {api_message}. This may indicate an invalid team/user or insufficient token permissions.")
         elif response.status_code == 403:
             print("❌ Permission denied. Your MY_GITHUB_KEY may lack 'admin:org' scope.")
         else:
