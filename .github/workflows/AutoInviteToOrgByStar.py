@@ -41,7 +41,11 @@ def send_github_invite(username, team_id, token):
                 api_message = 'no details provided'
             print(f"⚠️ Resource not found (404): {api_message}. This may indicate an invalid team/user or insufficient token permissions.")
         elif response.status_code == 403:
-            print("❌ Permission denied. Your MY_GITHUB_KEY may lack 'admin:org' scope.")
+            try:
+                api_message = response.json().get('message', 'no details provided')
+            except ValueError:
+                api_message = 'no details provided'
+            print(f"❌ Permission denied (403): {api_message}. This may indicate insufficient token permissions, SSO enforcement, or rate limiting.")
         else:
             # We avoid printing response.text to prevent secret leakage in logs
             print(f"⚠️ API returned status: {response.status_code}")
