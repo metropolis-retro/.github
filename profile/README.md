@@ -68,18 +68,18 @@
 > [!CAUTION]
 > **SEEKING: VISIONARIES • OPERATORS • ARCHITECTS**
 > <br />
-> *If you possess the speed of a machine and the taste of an artisan — your place is here.*
+> _If you possess the speed of a machine and the taste of an artisan — your place is here._
 
 <hr>
 
-| 🧱 INFRASTRUCTURE | ⚡ VELOCITY | 🏛️ AESTHETIC |
-| :--- | :--- | :--- |
+| 🧱 INFRASTRUCTURE     | ⚡ VELOCITY       | 🏛️ AESTHETIC          |
+| :-------------------- | :---------------- | :-------------------- |
 | Build for the Century | Move with Purpose | Design with Precision |
 
 <br />
 
 ### 📡 [TRANSMIT YOUR CREDENTIALS](https://github.com/metropolis-retro)
-  
+
 <hr>
 
 `EST. 2021 // BRISBANE_STATION // THE_MACHINE_REQUIRES_TASTE`

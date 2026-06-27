@@ -1,0 +1,51 @@
+---
+default_stages: [pre-commit, pre-push]
+minimum_prek_version: '0.3.4'
+default_language_version:
+  python: python3
+repos:
+  - repo: meta
+    hooks:
+      - id: identity
+        name: Run identity
+        description: Run the identity check
+      - id: check-hooks-apply
+        name: run check-hooks-apply
+        description: check that all the hooks apply to the repository
+  - repo: local
+    hooks:
+      - id: check-zip-file-is-not-committed
+        name: check no zip files are committed
+        description: Zip files are not allowed in the repository
+        language: fail
+        entry: |
+          Zip files are not allowed in the repository as they are hard to
+          track and have security implications. Please remove the zip file from the repository.
+        files: (?i)\.zip$
+      - id: prettier
+        name: run prettier
+        description: format files with prettier
+        entry: prettier --write '**/*.md' '**/*.yaml' '**/*.yml'
+        files: \.(md|ya?ml)$
+        language: node
+        additional_dependencies: ['prettier@3.8.4']
+        pass_filenames: false
+        stages: [manual]
+
+  # GO-based
+  - repo: https://github.com/gitleaks/gitleaks
+    rev: 83d9cd684c87d95d656c1458ef04895a7f1cbd8e # frozen: v8.30.1
+    hooks:
+      - id: gitleaks
+        name: Run gitleaks
+        description: Check for secrets with gitleaks
+
+  - repo: https://github.com/Lucas-C/pre-commit-hooks
+    rev: ad1b27d73581aa16cca06fc4a0761fc563ffe8e8 # frozen: v1.5.6
+    hooks:
+      - id: chmod
+        name: Set file permissions
+        description: Does not run on Windows so setup as a manual hook
+        args: ['644']
+        files: \.md$
+        stages: [manual]
