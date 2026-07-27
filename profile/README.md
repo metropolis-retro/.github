@@ -103,12 +103,6 @@
       <img src="assets/third-event-beers-in-play.jpg" alt="Breakfast Creek Hotel third event Beers in play">
     </a>
   </p>
-  <h3>Breakfast Creek Hotel seventh event arrived early to setup 🚧</h3>
-  <p>
-    <a href="#">
-      <img src="assets/breakfast-creek-hotel-seventh-event.jpg" alt="Breakfast Creek Hotel seventh event arrived early to setup">
-    </a>
-  </p>
   <h3>We support The Big Issue 🇦🇺</h3>
   <p>
     <a href="https://thebigissue.org.au/">
