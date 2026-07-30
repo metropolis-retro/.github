@@ -5,8 +5,11 @@
   <p>We ran <strong>27</strong> events at the world famous <a href="https://www.breakfastcreekhotel.com/">Breakfast Creek Hotel</a> from October 2025 to mid July 2026 mainly on Monday nights. The first event was on a Wednesday afternoon. The second and third events were on Tuesday afternoons. From the 4th event onwards we played Mondays initially starting at 4:30pm but then transitioning to 5pm and then later to a 5:30pm start. Thursday meetups started on the 16th of July.</p>
 
   <hr>
-  <h2>The next event is on Monday the 27th of July from 5pm until 6:30pm at the <a href="https://pignwhistle.com.au/king-george-square">Pig N Whistle King George Square</a> ♟️ 🍹 🍸</h2>
+  <h2>The last event was on Monday the 27th of July from 5pm until 6:30pm at the <a href="https://pignwhistle.com.au/king-george-square">Pig N Whistle King George Square</a> ♟️ 🍹 🍸</h2>
   <h2>Join us every Thursday starting at 5:30pm until 7:00pm at the world famous Breakfast Creek Hotel 😎🍻</h2>
+  <hr>
+  <h2>Solve the <a href="https://en.wikipedia.org/wiki/Rubik%27s_Cube">Rubik's Cube</a> at our Meetups !!! 🧊 🍷 </h2>
+  <img src="assets/rubiks-cubes.jpg" alt="Solve the Rubik's Cube">
 </div>
 
 <hr>
