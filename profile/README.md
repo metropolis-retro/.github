@@ -124,7 +124,7 @@
     </a>
   </p>
 
-  <h3>Backgammon, Chess, Mah Jongg, Reversi and Rubik's Cubes - Thursdays at the Breakfast Creek Hotel 🀄 ♟️ 🎲 🥂</h3>
+  <h3><a href="https://en.wikipedia.org/wiki/Backgammon">Backgammon</a>, <a href="https://en.wikipedia.org/wiki/Chess">Chess</a>, <a href="https://en.wikipedia.org/wiki/Mahjong">Mah Jongg</a>, <a href="https://en.wikipedia.org/wiki/Reversi">Reversi</a> and <a href="https://en.wikipedia.org/wiki/Rubik%27s_Cube">Rubik's Cubes</a> - Thursdays at the Breakfast Creek Hotel 🀄 ♟️ 🎲 🥂</h3>
   <p>
     <a href="#">
       <img src="assets/five-games.jpg" alt="Backgammon, Chess, Mah Jongg, Reversi and Rubik's Cubes - Thursdays at the Breakfast Creek Hotel">
