@@ -2,7 +2,7 @@
   <h1>Welcome to the Official <code>Metropolis Retro</code> World Chess Team and Games Club 🀄 🃏 ♟️ 🎲 🕹️</h1>
   <p>
     <strong>Metropolis Retro</strong> is a team of cutting-edge chess and games players who also love open-source on GitHub. We’re here to celebrate global games, with a vibrant, tech-loving community.</p>
-  <p>We ran <strong>27</strong> events at the world famous <a href="https://www.breakfastcreekhotel.com/">Breakfast Creek Hotel</a> from October 2025 to mid July 2026 mainly on Monday nights. The first event was on a Wednesday afternoon. The second and third events were on Tuesday afternoons. From the 4th event onwards we played Mondays initially starting at 4:30pm but then transitioning to 5pm and then later to a 5:30pm start. Thursday meetups started on the 16th of July.</p>
+  <p>We ran <strong>28</strong> events at the world famous <a href="https://www.breakfastcreekhotel.com/">Breakfast Creek Hotel</a> from October 2025 to the end of July 2026 mainly on Monday nights. The first event was on a Wednesday afternoon. The second and third events were on Tuesday afternoons. From the 4th event onwards we played Mondays initially starting at 4:30pm but then transitioning to 5pm and then later to a 5:30pm start. Thursday meetups started on the 16th of July.</p>
 
   <hr>
   <h2>The next event is on Monday the 3rd of August from 5pm until 6:30pm at the <a href="https://pignwhistle.com.au/king-george-square">Pig N Whistle King George Square</a> ♟️ 🍹 🍸</h2>
