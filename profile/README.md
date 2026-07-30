@@ -11,7 +11,7 @@
   <hr>
   <h2>Solve the <a href="https://en.wikipedia.org/wiki/Rubik%27s_Cube">Rubik's Cubes</a> at our Meetups !!! 🧊 🍷 </h2>
   <a href="#">
-  <img src="assets/rubiks-cubes.jpg" alt="Solve the Rubik's Cubes">
+  <img src="assets/seven-shapes.jpg" alt="Solve the Rubik's Cubes">
   </a>
 </div>
 
