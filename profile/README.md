@@ -8,8 +8,8 @@
   <h2>The last event was on Monday the 27th of July from 5pm until 6:30pm at the <a href="https://pignwhistle.com.au/king-george-square">Pig N Whistle King George Square</a> ♟️ 🍹 🍸</h2>
   <h2>Join us every Thursday starting at 5:30pm until 7:00pm at the world famous Breakfast Creek Hotel 😎🍻</h2>
   <hr>
-  <h2>Solve the <a href="https://en.wikipedia.org/wiki/Rubik%27s_Cube">Rubik's Cube</a> at our Meetups !!! 🧊 🍷 </h2>
-  <img src="assets/rubiks-cubes.jpg" alt="Solve the Rubik's Cube">
+  <h2>Solve the <a href="https://en.wikipedia.org/wiki/Rubik%27s_Cube">Rubik's Cubes</a> at our Meetups !!! 🧊 🍷 </h2>
+  <img src="assets/rubiks-cubes.jpg" alt="Solve the Rubik's Cubes">
 </div>
 
 <hr>
