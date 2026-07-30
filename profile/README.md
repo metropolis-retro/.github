@@ -123,6 +123,13 @@
       <img src="assets/pig-first-event-backgammon.jpg" alt="Pig N Whistle King George Square 1st Event Blondes Winning Backgammon">
     </a>
   </p>
+
+  <h3>Backgammon, Chess, Mah Jongg, Reversi and Rubik's Cubes - Thursdays at the Breakfast Creek Hotel 🀄 ♟️ 🎲 🥂</h3>
+  <p>
+    <a href="#">
+      <img src="assets/five-games.jpg" alt="Backgammon, Chess, Mah Jongg, Reversi and Rubik's Cubes - Thursdays at the Breakfast Creek Hotel">
+    </a>
+  </p>
   
   <h3>We support The Big Issue 🇦🇺</h3>
   <p>
