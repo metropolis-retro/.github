@@ -9,6 +9,11 @@
   <h2>The next event is on Monday the 3rd of August from 5pm until 6:30pm at the Pig N Whistle King George Square ♟️ 🍹 🍸</h2>
   <h2>Join us every Thursday starting at 5:30pm until 7:00pm at the world famous Breakfast Creek Hotel 😎🍻</h2>
   <hr>
+  <h2>The Saturday Night Seven 🤼‍♂️ 🎉 </h2>
+  <a href="#">
+    <img src="assets/the-saturday-seven.jpg" alt="The Saturday Seven">
+  </a>
+  <hr>
   <h2>Solve the <a href="https://en.wikipedia.org/wiki/Rubik%27s_Cube">Rubik's Cubes</a> at our Meetups !!! 🧊 🍷 </h2>
   <a href="#">
   <img src="assets/seven-shapes.jpg" alt="Solve the Rubik's Cubes">
