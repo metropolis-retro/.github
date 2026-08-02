@@ -2,7 +2,12 @@
   <h1>Welcome to the Official <code>Metropolis Retro</code> World Chess Team and Games Club 🀄 🃏 ♟️ 🎲 🕹️</h1>
   <p>
     <strong>Metropolis Retro</strong> is a team of cutting-edge chess and games players who also love open-source on GitHub. We’re here to celebrate global games, with a vibrant, tech-loving community.</p>
-  <p>We ran <strong>28</strong> events at the world famous <a href="https://www.breakfastcreekhotel.com/">Breakfast Creek Hotel</a> from October 2025 to the end of July 2026 mainly on Monday nights. The first event was on a Wednesday afternoon. The second and third events were on Tuesday afternoons. From the 4th event onwards we played Mondays initially starting at 4:30pm but then transitioning to 5pm and then later to a 5:30pm start. Thursday meetups started on the 16th of July.</p>
+  <p>We ran <strong>28</strong> regular afternoon events at the world famous <a href="https://www.breakfastcreekhotel.com/">Breakfast Creek Hotel</a> from October 2025 to the end of July 2026 mainly on Monday nights. The first event was on a Wednesday afternoon. The second and third events were on Tuesday afternoons. From the 4th event onwards we played Mondays initially starting at 4:30pm but then transitioning to 5pm and then later to a 5:30pm start. Thursday meetups started on the 16th of July.</p>
+  <hr>
+  <p>Over a two day period from Friday the 31st July to Sunday the 2nd of August we ran 4 unplanned meetups at the Breakfast Creek Hotel. At all 4 events chess was played including two highly successful events on both Friday and Saturday nights from about 9:15pm for about 2.5 hours.</p>
+  <p>At the Sunday afternoon event John Bampton discussed chess, life and professional football with <a href="https://en.wikipedia.org/wiki/Gehamat_Shibasaki">Gehamat Shibasaki</a> over a beer during a social game finishing with a checkmate and a handshake. Gehamat Shibasaki (born 18 February 1998) is an <strong>Australian professional rugby league and rugby union footballer</strong> who plays as a centre for the Brisbane Broncos in the National Rugby League, with whom he won the 2025 NRL Grand Final. Shibasaki has also played for Queensland in the State of Origin series, and has represented Australia in the 2025 Kangaroo tour of England. Images now posted on <a href="https://www.instagram.com/metropolisretro/p/DbiAuQupgU4/">Instagram of Gehamat</a> were confirmed with the Google AI image search.</p>
+
+  <hr>
   <p>Monday's regular elite chess, cocktails, games and corporate networking event started on the 27th of July at the <a href="https://pignwhistle.com.au/king-george-square">Pig N Whistle King George Square</a>
   </p>
   <hr>
