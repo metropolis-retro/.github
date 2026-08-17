@@ -9,7 +9,7 @@
   </p>
   
 <hr>
-  <h2>The next event is on Monday the 3rd of August from 5pm until 6:30pm at the Pig N Whistle King George Square ♟️ 🍹 🍸</h2>
+  <h2>The next event is on Monday the 17th of August from 5:30pm until 7pm at the Pig N Whistle King George Square ♟️ 🍹 🍸</h2>
   <h2>Join us every Thursday starting at 5:30pm until 7:00pm at the world famous Breakfast Creek Hotel 😎🍻</h2>
   <hr>
   
