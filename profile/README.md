@@ -5,11 +5,8 @@
 
    
   <p>We ran <strong>28</strong> regular afternoon events at the world famous <a href="https://www.breakfastcreekhotel.com/">Breakfast Creek Hotel</a> from October 2025 to the end of July 2026 mainly on Monday nights. The first event was on a Wednesday afternoon. The second and third events were on Tuesday afternoons. From the 4th event onwards we played Mondays initially starting at 4:30pm but then transitioning to 5pm and then later to a 5:30pm start. Thursday meetups started on the 16th of July.</p>
-  <p>Monday's regular elite chess, cocktails, games and corporate networking event started on the 27th of July at the <a href="https://pignwhistle.com.au/king-george-square">Pig N Whistle King George Square</a>
-  </p>
   
 <hr>
-  <h2>The next event is on Monday the 17th of August from 5:30pm until 7pm at the Pig N Whistle King George Square ♟️ 🍹 🍸</h2>
   <h2>Join us every Thursday starting at 5:30pm until 7:00pm at the world famous Breakfast Creek Hotel 😎🍻</h2>
   <hr>
   
