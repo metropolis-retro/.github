@@ -9,8 +9,7 @@
 <hr>
   
   <p>Over a two day period from Friday the 31st July to Sunday the 2nd of August we ran 4 unplanned meetups at the Breakfast Creek Hotel. At all 4 events chess was played including two highly successful events on both Friday and Saturday nights from about 9:15pm for about 2.5 hours.</p>
-  <p>At the Sunday afternoon event John Bampton discussed chess, life and professional football with <a href="https://en.wikipedia.org/wiki/Gehamat_Shibasaki">Gehamat Shibasaki</a> over a beer during a social game finishing with a checkmate and a handshake. Gehamat Shibasaki (born 18 February 1998) is an <strong>Australian professional rugby league and rugby union footballer</strong> who plays as a centre for the Brisbane Broncos in the National Rugby League, with whom he won the 2025 NRL Grand Final. Shibasaki has also played for Queensland in the State of Origin series, and has represented Australia in the 2025 Kangaroo tour of England. Images now posted on <a href="https://www.instagram.com/metropolisretro/p/DbiAuQupgU4/">Instagram of Gehamat</a> were confirmed with the Google AI image search.</p>
-
+ 
   <hr>
   <h2>The Saturday Night Magnificent Seven 🤼‍♂️ 🎉 </h2>
   <a href="#">
