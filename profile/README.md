@@ -123,13 +123,6 @@
     </a>
   </p>
 
-  <h3>Pig N Whistle King George Square 1st Event: <strong>Blondes Winning Backgammon</strong> 👱‍♀️ 🎲</h3>
-  <p>
-    <a href="#">
-      <img src="assets/pig-first-event-backgammon.jpg" alt="Pig N Whistle King George Square 1st Event Blondes Winning Backgammon">
-    </a>
-  </p>
-
   <h3><a href="https://en.wikipedia.org/wiki/Backgammon">Backgammon</a>, <a href="https://en.wikipedia.org/wiki/Chess">Chess</a>, <a href="https://en.wikipedia.org/wiki/Mahjong">Mah Jongg</a>, <a href="https://en.wikipedia.org/wiki/Reversi">Reversi</a> and <a href="https://en.wikipedia.org/wiki/Rubik%27s_Cube">Rubik's Cubes</a> - Thursdays at the Breakfast Creek Hotel 🀄 ♟️ 🎲 🥂</h3>
   <p>
     <a href="#">
