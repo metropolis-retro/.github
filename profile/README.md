@@ -4,7 +4,7 @@
   <p>
     <strong>Metropolis Retro</strong> is a team of cutting-edge chess and games players who also love open-source on GitHub. We’re here to celebrate global games, with a vibrant, tech-loving community.</p>
 
-<p>Since October 2025—just over a year ago—we’ve hosted more than 42 events at the world-famous Breakfast Creek Hotel. Along the way, we added Thursday meetups on 16th July and officially ticked off every single day of the week at the Creek over this one-year stretch.</p>
+<p>Since October 2025—just over a year ago—we’ve hosted more than 42 events at the world-famous <a href="https://www.breakfastcreekhotel.com">Breakfast Creek Hotel</a>. Along the way, we added Thursday meetups on 16th July and officially ticked off every single day of the week at the Creek over this one-year stretch.</p>
 
   <hr>
   <h2>The Saturday Night Magnificent Seven 🤼‍♂️ 🎉 </h2>
