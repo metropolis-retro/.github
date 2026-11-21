@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Welcome to the Official <code>Metropolis Retro</code> World Chess Team and Games Club 🀄 🃏 ♟️ 🎲 🕹️</h1>
-  <h2>Our current weekly meetup is on Thursdays starting at 5pm for about 2 hours at the Breakfast Creek Hotel 🥩 🍹</h2>
+  <h2>Our current weekly meetup is on Thursdays starting at 5pm for about 1.5 hours at the Breakfast Creek Hotel 🥩 🍹</h2>
   <p>
     <strong>Metropolis Retro</strong> is a team of cutting-edge chess and games players who also love open-source on GitHub. We’re here to celebrate global games, with a vibrant, tech-loving community.</p>
 
